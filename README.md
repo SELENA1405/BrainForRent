@@ -33,7 +33,6 @@ academic organization while maintaining academic integrity.
 - The Organizer manages academic planning tasks, including:
   - Assignment tracking
   - Calendar and deadline management
-  - Grade recording and progress monitoring
 - Other group members have **view-only access** and receive reminders and notifications.
 
 ---
@@ -42,9 +41,8 @@ academic organization while maintaining academic integrity.
 
 - 👥 Group creation and membership management  
 - 🧑‍💼 Role-based access (Organizer vs Viewing Member)  
-- 📝 Assignment tracking (spreadsheet-style interface)  
+- 📝 Assignment tracking (Notion-style interface)  
 - 📅 Academic calendar and deadline visualization  
-- 📊 Grade tracking and progress overview  
 - 🔔 Automated alerts and reminders  
 - 💰 Platform-based compensation model (simulated)
 
